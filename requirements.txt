@@ -1,9 +1,8 @@
 flask
-tensorflow==2.10.0
-numpy==1.23.5
-opencv-python==4.7.0.72
+tensorflow==2.21.0
+numpy>=2.0.0
+opencv-python
 scikit-learn
 joblib
 pillow
-matplotlib
 gunicorn
