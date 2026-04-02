@@ -1,0 +1,8 @@
+tensorflow-cpu==2.10
+numpy==1.23.5
+opencv-python==4.7.0.72
+flask
+scikit-learn
+joblib
+pillow
+matplotlib
